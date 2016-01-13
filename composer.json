@@ -1,0 +1,16 @@
+ {
+	"name": "fluidphp/translator-helper" ,	
+	"type": "library" ,
+	"description": "FluidPHP framework uer agent helper to get user agent data" ,
+	"keywords": [ "php framework" , "php user agent parser" ] ,
+	"homepage": "http://phptoolcase.com" ,
+	"license": "GPL V2" ,
+	"authors": 
+	[
+		{
+			"name": "Carlo Pietrobattista" ,
+			"email": "carlo@salapc.com" ,
+			"role": "Developer"
+		}
+	]
+}
