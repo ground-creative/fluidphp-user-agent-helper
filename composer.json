@@ -1,8 +1,8 @@
  {
-	"name": "fluidphp/translator-helper" ,	
+	"name": "fluidphp/useragent-helper" ,	
 	"type": "library" ,
-	"description": "FluidPHP framework uer agent helper to get user agent data" ,
-	"keywords": [ "php framework" , "php user agent parser" ] ,
+	"description": "FluidPHP framework user agent helper to get user agent data" ,
+	"keywords": [ "php library" , "php user agent parser" ] ,
 	"homepage": "http://phptoolcase.com" ,
 	"license": "GPL V2" ,
 	"authors": 
@@ -12,5 +12,12 @@
 			"email": "carlo@salapc.com" ,
 			"role": "Developer"
 		}
-	]
+	] ,
+	"autoload": 
+	{
+		"psr-4": 
+		{
+			"helpers\\UserAgent\\": ""
+		}
+	}
 }
