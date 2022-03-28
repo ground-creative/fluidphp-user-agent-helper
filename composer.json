@@ -4,7 +4,8 @@
 	"description": "FluidPHP framework user agent helper to get user agent data" ,
 	"keywords": [ "php library" , "php user agent parser" ] ,
 	"homepage": "http://phptoolcase.com" ,
-	"license": "GPL V2" ,
+	"license": "GPL-2.0-or-later" ,
+	"version": "v1.0.1-stable",
 	"authors": 
 	[
 		{
